@@ -1,11 +1,14 @@
-My Personal Stuffs:
+https://www.linkedin.com/in/uzair-sarwar-janjua/
+I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, and Node.js) and front-end web development. I have experience building responsive and user-friendly web applications from start to finish, including designing the UI/UX, implementing features, and deploying the final product. I am always looking to learn and grow as a developer, and am excited to tackle new challenges and projects. In my free time, you can find me tinkering with new technologies or sharing my knowledge through writing and speaking at meetups and conferences.
 
-👨🏽‍💻 I’m currently working on MERN/MEAN Stack and Front-End development;
-🌱 I’m currently learning solidity and web 3.0;
-👯 I’m looking to collaborate on callstack 🤝;
-💬 Ask me about anything, I am happy to help;
-⚡️ Fun-Fact: I have a degree in Software engineering;
-📫 How to reach me: uzairsarwar10@gmail.com;
+My Personal Stuffs:
+* 👨🏽‍💻 I’m currently working on MERN/MEAN Stack and Front-End development;
+* 🌱 I’m currently learning solidity and web 3.0;
+* 👯 I’m looking to collaborate on callstack 🤝;
+* 💬 Ask me about anything, I am happy to help;
+* ⚡️ Fun-Fact: I have a degree in Software engineering;
+* 📫 How to reach me: uzairsarwar10@gmail.com;
+  
 
 
 
