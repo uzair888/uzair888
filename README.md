@@ -1,7 +1,8 @@
 ![Black Purple Modern Bold What is NFT Youtube Thumbnail (4)](https://user-images.githubusercontent.com/68950861/210167393-407a3341-3f43-46ae-a03e-91e6ba5f1a6f.png)
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-(https://www.linkedin.com/in/uzair-sarwar-janjua/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<!-- (https://www.linkedin.com/in/uzair-sarwar-janjua/) -->
 I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, and Node.js) and front-end web development. I have experience building responsive and user-friendly web applications from start to finish, including designing the UI/UX, implementing features, and deploying the final product. I am always looking to learn and grow as a developer, and am excited to tackle new challenges and projects. In my free time, you can find me tinkering with new technologies or sharing my knowledge through writing and speaking at meetups and conferences.
 
 My Personal Stuffs:
@@ -51,5 +52,6 @@ Languages and Tools:
 
 
 ![javascript](https://user-images.githubusercontent.com/68950861/210166443-af489ed9-98ff-41d5-8b6a-4d6cc2d77624.png)
-![react-nativ![git](https://user-images.githubusercontent.com/68950861/210166468-0eb70f83-aef2-4e4c-b6f9-e1ebef20ea33.png)
+![react-native](https://user-images.githubusercontent.com/68950861/210168033-ae82905c-d36b-4880-9bf4-e76250c6e758.png)
+![terminal](https://user-images.githubusercontent.com/68950861/210168061-5df5bda2-bf18-4bca-a1d7-0c80ed43a24f.png)
 ![M](https://user-images.githubusercontent.com/68950861/210166499-1d1d4587-859c-4675-85d8-ad3c67300d91.jpg)
