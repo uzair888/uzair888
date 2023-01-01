@@ -1,8 +1,12 @@
-![Black Purple Modern Bold What is NFT Youtube Thumbnail (4)](https://user-images.githubusercontent.com/68950861/210167393-407a3341-3f43-46ae-a03e-91e6ba5f1a6f.png)
+![Black Purple Modern Bold What is NFT Youtube Thumbnail (5)](https://user-images.githubusercontent.com/68950861/210169461-a0ca71e2-7717-4c3c-9ea9-2d8148e18ecb.png)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<!-- (https://www.linkedin.com/in/uzair-sarwar-janjua/) -->
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-sarwar-janjua/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairsarwar10@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Vegito#7432)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/uzairsj/)
+
+
 I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, and Node.js) and front-end web development. I have experience building responsive and user-friendly web applications from start to finish, including designing the UI/UX, implementing features, and deploying the final product. I am always looking to learn and grow as a developer, and am excited to tackle new challenges and projects. In my free time, you can find me tinkering with new technologies or sharing my knowledge through writing and speaking at meetups and conferences.
 
 My Personal Stuffs:
@@ -52,6 +56,6 @@ Languages and Tools:
 
 
 ![javascript](https://user-images.githubusercontent.com/68950861/210166443-af489ed9-98ff-41d5-8b6a-4d6cc2d77624.png)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![react-native](https://user-images.githubusercontent.com/68950861/210168033-ae82905c-d36b-4880-9bf4-e76250c6e758.png)
 ![M](https://user-images.githubusercontent.com/68950861/210166499-1d1d4587-859c-4675-85d8-ad3c67300d91.jpg)
