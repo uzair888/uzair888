@@ -1,3 +1,12 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
 ![Black Purple Modern Bold What is NFT Youtube Thumbnail (5)](https://user-images.githubusercontent.com/68950861/210169461-a0ca71e2-7717-4c3c-9ea9-2d8148e18ecb.png)
 
 
@@ -9,15 +18,19 @@
 
 I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, and Node.js) and front-end web development. I have experience building responsive and user-friendly web applications from start to finish, including designing the UI/UX, implementing features, and deploying the final product. I am always looking to learn and grow as a developer, and am excited to tackle new challenges and projects. In my free time, you can find me tinkering with new technologies or sharing my knowledge through writing and speaking at meetups and conferences.
 
-My Personal Stuffs:
-* 👨🏽‍💻 I’m currently working on MERN/MEAN Stack and Front-End development;
-* 🌱 I’m currently learning solidity and web 3.0;
-* 👯 I’m looking to collaborate on callstack 🤝;
-* 💬 Ask me about anything, I am happy to help;
-* ⚡️ Fun-Fact: I have a degree in Software engineering;
-* 📫 How to reach me: uzairsarwar10@gmail.com;
 
-Languages and Tools:
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,10 +65,30 @@ Languages and Tools:
   
 
 
+  
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+<p align="center">
 
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=uzair888&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=uzair888&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
-
-![javascript](https://user-images.githubusercontent.com/68950861/210166443-af489ed9-98ff-41d5-8b6a-4d6cc2d77624.png)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![react-native](https://user-images.githubusercontent.com/68950861/210168033-ae82905c-d36b-4880-9bf4-e76250c6e758.png)
-![M](https://user-images.githubusercontent.com/68950861/210166499-1d1d4587-859c-4675-85d8-ad3c67300d91.jpg)
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair888&layout=compact&theme=merko">
+  
+My Personal Stuffs:
+* 👨🏽‍💻 I’m currently working on MERN/MEAN Stack and Front-End development;
+* 🌱 I’m currently learning solidity and web 3.0;
+* 👯 I’m looking to collaborate on callstack 🤝;
+* 🥅 2023 Goals: Contribute to Open Source projects
+* 💬 Ask me about anything, I am happy to help;
+* ⚡ Fun fact: I love connecting with different people
+* 📫 How to reach me: uzairsarwar10@gmail.com; 
+  
+  
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
