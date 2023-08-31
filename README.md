@@ -76,6 +76,7 @@ I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Expr
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=uzair888&show_icons=true&hide_border=true"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzair888&theme=merko">
 </div>
 <p align="center">
