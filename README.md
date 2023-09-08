@@ -1,37 +1,31 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
 
-![Black Purple Modern Bold What is NFT Youtube Thumbnail (5)](https://user-images.githubusercontent.com/68950861/210169461-a0ca71e2-7717-4c3c-9ea9-2d8148e18ecb.png)
 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-sarwar-janjua/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairsarwar10@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Vegito#7432)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/uzairsj/)
-
-
-I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, and Node.js) and front-end web development. I have experience building responsive and user-friendly web applications from start to finish, including designing the UI/UX, implementing features, and deploying the final product. I am always looking to learn and grow as a developer, and am excited to tackle new challenges and projects. In my free time, you can find me tinkering with new technologies or sharing my knowledge through writing and speaking at meetups and conferences.
+Hi, I have been an experienced Full Stack Developer since 2019 with a strong background in developing and deploying scalable applications using Javascript, Python, Node, MERN, React, Electron, VueJS, SvelteJS, AWS, Docker, Kubernetes, Graphql, Prisma, etc. I am Proficient in implementing Software solutions to provide secure applications and strongly committed to delivering high-quality software solutions that meet the needs of clients and businesses. I'm Adept at collaborating with cross-functional teams, adapting to new technologies quickly, and seeking opportunities to leverage my technical expertise to contribute to the growth and success of organizations.
 
 
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
   
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-sarwar-janjua/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairsarwar10@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Vegito#7432)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/uzairsj/)
+</div>
+  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<!-- <img src="https://i.imgur.com/ozEwbHs.gif"> -->
 
 <p align="center">
-
+<!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -61,39 +55,57 @@ I am a full-stack developer with a strong focus on the MERN stack (MongoDB, Expr
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+-->
 
   
-
-
-  
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <p align="center">
 <p align="center">
 
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<!-- <img src="https://i.imgur.com/YCw47Dm.gif"> -->
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=uzair888&show_icons=true&hide_border=true"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzair888&theme=merko">
 </div>
+
+
 <p align="center">
 <p align="center">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair888&layout=compact&theme=merko">
+<!-- <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair888&layout=compact&theme=merko"> -->
   
-My Personal Stuffs:
-* 👨🏽‍💻 I’m currently working on MERN/MEAN Stack and Front-End development;
-* 🌱 I’m currently learning solidity and web 3.0;
-* 👯 I’m looking to collaborate on callstack 🤝;
-* 🥅 2023 Goals: Contribute to Open Source projects
-* 💬 Ask me about anything, I am happy to help;
-* ⚡ Fun fact: I love connecting with different people
-* 📫 How to reach me: uzairsarwar10@gmail.com; 
+I'm experienced in:
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<p align="center">
+<p align="center">
+
+
+- Node, Python for Rest APIS and backend development
+- HTML/HTML5, CSS/CSS3/Sass/SCSS, ES5/ES6, Javascript, Typescript
+- React.js, React Hooks, React Context, Redux Toolkit
+- Svelte and Svelte Kit
+- Vue.js
+- Next.js, Gatsby, SSR, SSG, SEO, Jamstack
+- Graphql, Prisma
+- Docker, Kubernetes
+- Material UI, Bootstrap, Tailwind CSS, Ant Design, Semantic UI, Styled Components
+- Rest API, GraphQL, API Integration
+- Auth0/OAuth2/JWT/AWS Cognito
+- Git, SVN, Github, Trello
+- Vercel, Firebase, Railway, Heroku, GCP, Netlify, DigitalOcean, AWS Amplify
+- Jest, Playwright, Cypress, Mocha for unit test
+- PSD, XD, InVision, Figma, Zeplin
+
+I can provide you with solutions to any kind of software-related problems.
+Clean code and meeting deadline is my strength!
+Looking forward to interviewing with you.
   
   
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
